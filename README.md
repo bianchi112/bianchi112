@@ -36,7 +36,7 @@
     <!-- DataBase -->
     <p><strong>DataBase</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/ORALCE-FF0000?style=for-the-badge&logo=ORALCE&logoColor=white"> 
+        <img src="https://img.shields.io/badge/ORALCE-FF0000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div> 
     <!-- Framwork -->
     <p><strong>Framwork</strong></p>
