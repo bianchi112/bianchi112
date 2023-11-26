@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/Java Script-FFFF00?style=for-the-badge&logo=Java Script&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java Beans-FE9A2E?style=for-the-badge&logo=Java Beans&logoColor=white"> 
         <img src="https://img.shields.io/badge/AJAX -FE2E2E?style=for-the-badge&logo=AJAX&logoColor=white"> 
-        <img src="https://img.shields.io/badge/jQery -2E64FE?style=for-the-badge&logo=jQery&logoColor=white"> 
+        <img src="https://img.shields.io/badge/jQuery -2E64FE?style=for-the-badge&logo=jQuery&logoColor=white"> 
     </div> 
     <!-- DataBase -->
     <p><strong>DataBase</strong></p>
