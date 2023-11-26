@@ -1,5 +1,9 @@
 👋 Hi, I’m ManKyeong Choi
 
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:choimatthew0326@gmail.com">
