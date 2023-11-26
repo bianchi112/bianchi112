@@ -20,6 +20,20 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/C-6DB33F?style=for-the-badge&logo=C&logoColor=white"> 
     </div> 
+    <!-- WEB -->
+    <p><strong>WEB</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java Servlet-007396?style=for-the-badge&logo=Java Servlet&logoColor=white"> 
+        <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"> 
+    </div> 
+
+
+
+
+
+
+
+    
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
