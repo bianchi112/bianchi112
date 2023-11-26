@@ -25,7 +25,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java Servlet-FFBF00?style=for-the-badge&logo=Java Servlet&logoColor=white"> 
         <img src="https://img.shields.io/badge/JSP-FACC2E?style=for-the-badge&logo=JSP&logoColor=white"> 
-        <img src="https://img.shields.io/badge/HTML-FE9A2E?style=for-the-badge&logo=html&logoColor=white"> 
+        <img src="https://img.shields.io/badge/HTML-FE9A2E?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/JSP-FF8000?style=for-the-badge&logo=JSP&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS-0174DF?style=for-the-badge&logo=CSS&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java Script-FFFF00?style=for-the-badge&logo=Java Script&logoColor=white"> 
