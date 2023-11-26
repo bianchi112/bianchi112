@@ -26,7 +26,6 @@
         <img src="https://img.shields.io/badge/Java Servlet-FFBF00?style=for-the-badge&logo=Java Servlet&logoColor=white"> 
         <img src="https://img.shields.io/badge/JSP-FACC2E?style=for-the-badge&logo=JSP&logoColor=white"> 
         <img src="https://img.shields.io/badge/HTML-FE9A2E?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/JSP-FF8000?style=for-the-badge&logo=JSP&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS-0174DF?style=for-the-badge&logo=CSS3&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
         <img src="https://img.shields.io/badge/Java Beans-FE9A2E?style=for-the-badge&logo=Java Beans&logoColor=white"> 
