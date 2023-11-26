@@ -7,7 +7,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:choimatthew0326@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-#FE2E2E?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-FE2E2E?style=flat-square&logo=Java&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/o/sGFzzbsf">
         <img src="https://img.shields.io/badge/
