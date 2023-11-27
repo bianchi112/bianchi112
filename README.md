@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/Java-FF4000?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/C-0040FF?style=for-the-badge&logo=C&logoColor=white"> 
     </div> 
+    <br>
     <!-- WEB -->
     <p><strong>WEB</strong></p>
     <div>
@@ -30,11 +31,13 @@
         <img src="https://img.shields.io/badge/AJAX -FE2E2E?style=for-the-badge&logo=AJAX&logoColor=white"> 
         <img src="https://img.shields.io/badge/jQuery -2E64FE?style=for-the-badge&logo=jQuery&logoColor=white"> 
     </div> 
+    <br>
     <!-- DataBase -->
     <p><strong>DataBase</strong></p>
     <div>
         <img src="https://img.shields.io/badge/ORALCE-FF0000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div> 
+    <br>
     <!-- Framwork -->
     <p><strong>Framwork</strong></p>
     <div>
