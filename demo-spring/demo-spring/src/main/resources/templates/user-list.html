@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>User List</title>
+</head>
+<body>
+<h2>User List</h2>
+<form action="/users/edit" method="post">
+    <table border="1">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Edit</th>
+            <th>Delete</th> <!-- 추가 -->
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="user : ${users}">
+            <td th:text="${user.id}"></td>
+            <td th:text="${user.username}"></td>
+            <td th:text="${user.email}"></td>
+
+            <!-- Edit User 링크 -->
+            <td><a th:href="@{'/users/edit/' + ${user.id}}">Edit User</a></td>
+
+            <!-- Delete User 링크 -->
+            <td><a th:href="@{'/users/delete/' + ${user.id}}" onclick="return confirm('삭제하시겠습니까?');">Delete User</a></td>
+        </tr>
+        </tbody>
+    </table>
+</form>
+
+<!-- 사용자 추가 폼으로 이동하는 링크 -->
+<a th:href="@{/users/add}">Add User</a>
+</body>
+</html>
